@@ -58,7 +58,7 @@ Official OpenCart.com Github Download Site for OpenCart Release Candidate v.1.5.
 
 https://github.com/opencart/opencart/tree/c2c8f9c4c8fce44bb81b394e235913306fb75707
 
-Latest PHP-7.4.21 McCrypt Replacement Fixes already built-in:
+Latest PHP-7.4.22 McCrypt Replacement Fixes already built-in:
 
 https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=38012
 
